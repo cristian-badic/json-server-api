@@ -1,0 +1,527 @@
+{
+  "carousel": [
+    {
+      "img": "/images/carousel/2.jpg",
+      "id": 2
+    },
+    {
+      "img": "/images/carousel/3.jpg",
+      "id": 3
+    },
+    {
+      "img": "/images/carousel/4.jpg",
+      "id": 4
+    },
+    {
+      "img": "/images/carousel/5.jpg",
+      "id": 5
+    },
+    {
+      "img": "/images/carousel/6.jpg",
+      "id": 6
+    },
+    {
+      "img": "/images/carousel/7.jpg",
+      "id": 7
+    },
+    {
+      "img": "/images/carousel/8.jpg",
+      "id": 8
+    },
+    {
+      "img": "/images/carousel/9.jpg",
+      "id": 9
+    },
+    {
+      "img": "/images/carousel/10.jpg",
+      "id": 10
+    },
+    {
+      "img": "/images/carousel/11.jpg",
+      "id": 11
+    },
+    {
+      "img": "/images/carousel/12.jpg",
+      "id": 12
+    },
+    {
+      "img": "/images/carousel/13.jpg",
+      "id": 13
+    },
+    {
+      "img": "/images/carousel/14.jpg",
+      "id": 14
+    },
+    {
+      "img": "/images/carousel/15.jpg",
+      "id": 15
+    }
+  ],
+
+  "portofolioWorking": [
+    {
+      "img": "/images/work/photo-shoot/1.jpg",
+      "id": 1,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/2.jpg",
+      "id": 2,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/3.jpg",
+      "id": 3,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/4.jpg",
+      "id": 4,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/5.jpg",
+      "id": 5,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/6.jpg",
+      "id": 6,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/7.jpg",
+      "id": 7,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/8.jpg",
+      "id": 8,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/9.jpg",
+      "id": 9,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/10.jpg",
+      "id": 10,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/11.jpg",
+      "id": 11,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/12.jpg",
+      "id": 12,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/13.jpg",
+      "id": 13,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/14.jpg",
+      "id": 14,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/15.jpg",
+      "id": 15,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/16.jpg",
+      "id": 16,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/17.jpg",
+      "id": 17,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/18.jpg",
+      "id": 18,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/19.jpg",
+      "id": 19,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/20.jpg",
+      "id": 20,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/21.jpg",
+      "id": 21,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/photo-shoot/22.jpg",
+      "id": 22,
+      "category": "photo-shoot"
+    },
+    {
+      "img": "/images/work/public-events/1.jpg",
+      "id": 1,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/2.jpg",
+      "id": 2,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/3.jpg",
+      "id": 3,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/4.jpg",
+      "id": 4,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/5.jpg",
+      "id": 5,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/6.jpg",
+      "id": 6,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/7.jpg",
+      "id": 7,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/8.jpg",
+      "id": 8,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/9.jpg",
+      "id": 9,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/10.jpg",
+      "id": 10,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/11.jpg",
+      "id": 11,
+      "category": "public-events"
+    },
+    {
+      "img": "/images/work/public-events/12.jpg",
+      "id": 12,
+      "category": "public-events"
+    }
+  ],
+
+  "portofolioHobby": [
+    {
+      "img": "/images/hobby/landscapes/1.jpg",
+      "id": 1,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/2.jpg",
+      "id": 2,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/3.jpg",
+      "id": 3,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/4.jpg",
+      "id": 4,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/5.jpg",
+      "id": 5,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/6.jpg",
+      "id": 6,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/7.jpg",
+      "id": 7,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/8.jpg",
+      "id": 8,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/9.jpg",
+      "id": 9,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/10.jpg",
+      "id": 10,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/11.jpg",
+      "id": 11,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/12.jpg",
+      "id": 12,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/13.jpg",
+      "id": 13,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/14.jpg",
+      "id": 14,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/15.jpg",
+      "id": 15,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/16.jpg",
+      "id": 16,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/17.jpg",
+      "id": 17,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/18.jpg",
+      "id": 18,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/19.jpg",
+      "id": 19,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/20.jpg",
+      "id": 20,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/21.jpg",
+      "id": 21,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/22.jpg",
+      "id": 22,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/23.jpg",
+      "id": 23,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/24.jpg",
+      "id": 24,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/25.jpg",
+      "id": 25,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/26.jpg",
+      "id": 26,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/landscapes/27.jpg",
+      "id": 27,
+      "category": "landscapes"
+    },
+    {
+      "img": "/images/hobby/urbanism/1.jpg",
+      "id": 1,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/2.jpg",
+      "id": 2,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/3.jpg",
+      "id": 3,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/4.jpg",
+      "id": 4,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/5.jpg",
+      "id": 5,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/6.jpg",
+      "id": 6,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/7.jpg",
+      "id": 7,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/8.jpg",
+      "id": 8,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/9.jpg",
+      "id": 9,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/10.jpg",
+      "id": 10,
+      "category": "urbanism"
+    },
+
+    {
+      "img": "/images/hobby/urbanism/12.jpg",
+      "id": 12,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/13.jpg",
+      "id": 13,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/14.jpg",
+      "id": 14,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/15.jpg",
+      "id": 15,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/16.jpg",
+      "id": 16,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/17.jpg",
+      "id": 17,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/19.jpg",
+      "id": 19,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/20.jpg",
+      "id": 20,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/21.jpg",
+      "id": 21,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/22.jpg",
+      "id": 22,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/urbanism/23.jpg",
+      "id": 23,
+      "category": "urbanism"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/1.jpg",
+      "id": 1,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/2.jpg",
+      "id": 2,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/3.jpg",
+      "id": 3,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/4.jpg",
+      "id": 4,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/5.jpg",
+      "id": 5,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/6.jpg",
+      "id": 6,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/7.jpg",
+      "id": 7,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/8.jpg",
+      "id": 8,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/9.jpg",
+      "id": 9,
+      "category": "shooting-cars"
+    },
+    {
+      "img": "/images/hobby/shooting-cars/10.jpg",
+      "id": 10,
+      "category": "shooting-cars"
+    }
+  ]
+}
